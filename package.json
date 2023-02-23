@@ -4,7 +4,6 @@
   "private": true,
   "dependencies": {
     "axios": "^0.21.2",
-    "fsevents": "^2.1.2",
     "react": "^16.13.1",
     "react-app-env": "^1.2.3",
     "react-bootstrap": "^0.32.4",
