@@ -1,0 +1,38 @@
+{
+  "name": "test-chat",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.21.2",
+    "fsevents": "^2.1.2",
+    "react": "^16.13.1",
+    "react-app-env": "^1.2.3",
+    "react-bootstrap": "^0.32.4",
+    "react-chat-elements": "^10.8.0",
+    "react-dom": "^16.13.1",
+    "react-notifications": "^1.6.0",
+    "react-scripts": "^3.4.1",
+    "socket.io-client": "^2.3.0"
+  },
+  "scripts": {
+    "start": "react-app-env start",
+    "build": "react-app-env build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-15": "^1.4.1",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "jest-enzyme": "^7.1.2"
+  }
+}
